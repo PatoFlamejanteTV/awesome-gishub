@@ -1,23 +1,23 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) awesome-gishub
 ==============
 
-Este es un espacio en el que podrás encontrar todo tipo de recursos relacionados con los SIG.
+Este é um espaço onde você poderá encontrar todo tipo de recursos relacionados a SIG.
 
-Tabla de contenidos
+Índice
 ===================
 
 <!--ts-->
-* [Herramientas de observación por satélite](herramientas-de-observación-por-satélite)
-* [Vector/Raster Data](#vectorraster-data)
-* [Libros](#libros)
+* [Ferramentas de observação por satélite](#ferramentas-de-observação-por-satélite)
+* [Dados Vetoriais/Raster](#dados-vetoriaisraster)
+* [Livros](#livros)
 * [Info](#info)
-* [Geología](#geología)
-* [Blogs/Noticias](#blogsnoticias)
-* [Guías](guías)
+* [Geologia](#geologia)
+* [Blogs/Notícias](#blogsnotícias)
+* [Guias](#guias)
 <!--te-->
 
 
-Herramientas de observación por satélite
+Ferramentas de observação por satélite
 ========================================
 
 [USGS Earthexplorer](https://earthexplorer.usgs.gov/)
@@ -33,101 +33,101 @@ Herramientas de observación por satélite
 [NASA Visible Earth](https://visibleearth.nasa.gov/view_cat.php?categoryID=1484)
 
 
-Vector/Raster Data
+Dados Vetoriais/Raster
 ==================
 
-[Copernicus Land Monitoring Service](https://land.copernicus.eu/) - Información geográfica sobre la cobertura del suelo, uso del suelo, movimientos de terreno, estado de la vegetación, ciclo del agua y variables energéticas de la superficie de la Tierra.
+[Copernicus Land Monitoring Service](https://land.copernicus.eu/) - Informações geográficas sobre a cobertura do solo, uso do solo, movimentos do terreno, estado da vegetação, ciclo da água e variáveis energéticas da superfície da Terra.
 
 [NASA Earth Observations](https://neo.gsfc.nasa.gov/)
 
-[Catálogo de datos abiertos de la NASA](https://data.nasa.gov/browse)
+[Catálogo de dados abertos da NASA](https://data.nasa.gov/browse)
 
 [USGS National Dataset](https://www.usgs.gov/products/data)
 
-[ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/es/home/) es la principal colección de información geográfica de todo el mundo. Incluye mapas, aplicaciones y capas de datos para ayudarle en su trabajo.
+[ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/es/home/) é a principal coleção de informações geográficas de todo o mundo. Inclui mapas, aplicativos e camadas de dados para ajudá-lo em seu trabalho.
 
-[Natural Earth Data](https://www.naturalearthdata.com/downloads/) - Datos cartográficos vectoriales y ráster gratuitos a 1:10m, 1:50m, and 1:110m scales
+[Natural Earth Data](https://www.naturalearthdata.com/downloads/) - Dados cartográficos vetoriais e raster gratuitos nas escalas 1:10m, 1:50m e 1:110m
 
 [MIT GIS Data](https://libguides.mit.edu/gis/GISdata) - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
 
 
-* DEM (Modelo Digital de Elevación)
+* MDE (Modelo Digital de Elevação)
 
-[OpenDEM](https://opendem.info/index.html) - El Portal para compartir la 3ª Dimensión
+[OpenDEM](https://opendem.info/index.html) - O Portal para compartilhar a 3ª Dimensão
 
-[SRTM](https://srtm.csi.cgiar.org/) - SRTM 90m DEM - Base de datos digital de elevaciones 
+[SRTM](https://srtm.csi.cgiar.org/) - SRTM 90m DEM - Banco de dados digital de elevações
 
-[OpenTopography](https://portal.opentopography.org/dataCatalog) - Nube de puntos y datos ráster
+[OpenTopography](https://portal.opentopography.org/dataCatalog) - Nuvem de pontos e dados raster
 
-[Shaded Relief Archive](https://www.shadedreliefarchive.com/) - Este sitio web ofrece un archivo de relieves sombreados escaneados manualmente para cartógrafos digitales.
+[Shaded Relief Archive](https://www.shadedreliefarchive.com/) - Este site oferece um arquivo de relevos sombreados digitalizados manualmente para cartógrafos digitais.
 
 
 * Clima
 
-[Climate Engine](https://climateengine.org/) - Datos climáticos y de observación de la Tierra
+[Climate Engine](https://climateengine.org/) - Dados climáticos e de observação da Terra
 
-[OLAS](https://www.olasdata.org/es/datasets/) - Datos de agua y saneamiento en América Latina y el Caribe.
+[OLAS](https://www.olasdata.org/es/datasets/) - Dados de água e saneamento na América Latina e no Caribe.
 
-[UK's National Oceanography Centre](https://www.bodc.ac.uk/resources/products/) - Intercambio y conservación de datos marinos, gestionado y operado por el Centro Nacional de Oceanografía
+[UK's National Oceanography Centre](https://www.bodc.ac.uk/resources/products/) - Intercâmbio e conservação de dados marinhos, gerenciado e operado pelo Centro Nacional de Oceanografia
 
-[GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) - Datos batimétricos
+[GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) - Dados batimétricos
 
-[WorldClim](https://www.worldclim.org/) Maps, graphs, tables, and data of the global climate
+[WorldClim](https://www.worldclim.org/) Mapas, gráficos, tabelas e dados do clima global
 
-[Global Change Master Directory](https://catalog.data.gov/dataset/global-change-master-directory-gcmd) Conjuntos de datos y servicios de ciencias de la Tierra que abarcan todos los aspectos de las ciencias de la Tierra y el medio ambiente.
+[Global Change Master Directory](https://catalog.data.gov/dataset/global-change-master-directory-gcmd) Conjuntos de dados e serviços de ciências da Terra que abrangem todos os aspectos das ciências da Terra e do meio ambiente.
 
-[River Network](https://www.rivernetwork.org/our-impact/how-we-help/providing-science-support-2/science-and-technical-resources-portal/data-sharing/) Base de datos de drenajes en USA
+[River Network](https://www.rivernetwork.org/our-impact/how-we-help/providing-science-support-2/science-and-technical-resources-portal/data-sharing/) Banco de dados de drenagem nos EUA
 
-[Open Air Quality](https://openaq.org/) Datos sobre la calidad del aire en todo el mundo
+[Open Air Quality](https://openaq.org/) Dados sobre a qualidade do ar em todo o mundo
 
-[Freshwater Ecoregions of the World](https://www.worldwildlife.org/pages/freshwater-ecoregions-of-the-world--2) proporciona una regionalización global de la biodiversidad de agua dulce de la Tierra
+[Freshwater Ecoregions of the World](https://www.worldwildlife.org/pages/freshwater-ecoregions-of-the-world--2) fornece uma regionalização global da biodiversidade de água doce da Terra
 
-[HydroSHEDS](https://www.hydrosheds.org/products) Datos hidrograficos de alta calidad para el modelado hidrologico
-
-
-* Teselas
-
-[MapLibre](https://maplibre.org/projects/) - La Organización MapLibre es un sombrilla para las bibliotecas cartográficas de código abierto
-
-[MapTiler Cloud](https://cloud.maptiler.com/maps/) - Mapas fáciles de usar, documentación, ejemplos de código y herramientas para desarrolladores web y móviles.
-
-[Free Tiles](http://alexurquhart.github.io/free-tiles/) - Servicios de teselas gratuitas by @alexurquhart
+[HydroSHEDS](https://www.hydrosheds.org/products) Dados hidrográficos de alta qualidade para modelagem hidrológica
 
 
-* Misceláneo
+* Tiles (Mosaicos)
 
-[Shapefiles de Venezuela](https://tapiquen-sig.jimdofree.com/descargas-gratuitas/venezuela/) - by Efrain Tapiquen 
+[MapLibre](https://maplibre.org/projects/) - A Organização MapLibre é um guarda-chuva para bibliotecas cartográficas de código aberto
 
-[Mapbiomas Amazonia](https://plataforma.amazonia.mapbiomas.org/) - Mapeo Anual de Cobertura y Uso del Suelo de la Amazonía
+[MapTiler Cloud](https://cloud.maptiler.com/maps/) - Mapas fáceis de usar, documentação, exemplos de código e ferramentas para desenvolvedores web e móveis.
+
+[Free Tiles](http://alexurquhart.github.io/free-tiles/) - Serviços de tiles gratuitos por @alexurquhart
+
+
+* Diversos
+
+[Shapefiles de Venezuela](https://tapiquen-sig.jimdofree.com/descargas-gratuitas/venezuela/) - por Efrain Tapiquen
+
+[Mapbiomas Amazonia](https://plataforma.amazonia.mapbiomas.org/) - Mapeamento Anual de Cobertura e Uso do Solo da Amazônia
  
-[Google Researh - Open Building](https://sites.research.google/open-buildings/) Datasets de huellas de edificios compilado en Google
+[Google Research - Open Building](https://sites.research.google/open-buildings/) Datasets de contornos de edifícios compilados no Google
 
-[Data.gov](https://data.gov/) Datos abiertos sobre conjuntos de datos geográficos y demográficos de USA
+[Data.gov](https://data.gov/) Dados abertos sobre conjuntos de dados geográficos e demográficos dos EUA
 
-[gisgeography](https://gisgeography.com/category/data-sources/) - Fuentes de datos geográficos de SIG
+[gisgeography](https://gisgeography.com/category/data-sources/) - Fontes de dados geográficos de SIG
 
-[DIVA-GIS](https://www.diva-gis.org/gdata) - Descargar datos por país (meh)
+[DIVA-GIS](https://www.diva-gis.org/gdata) - Baixar dados por país (meh)
 
 [USGS National Geologic Map Database](https://ngmdb.usgs.gov/Info/standards/GeMS/) - "GeMS" (Geologic Map Schema)
 
-[GEOFABRIK](https://www.geofabrik.de/data/download.html) - Geodatos shp y raw gratuitos basados en OpenStreetMap
+[GEOFABRIK](https://www.geofabrik.de/data/download.html) - Geodados shp e raw gratuitos baseados no OpenStreetMap
 
-[Mapicons collection](https://mapicons.mapsmarker.com/) - Íconos para utilizar como marcadores de posición para sus POI (Puntos de Interés) en sus mapas.
+[Mapicons collection](https://mapicons.mapsmarker.com/) - Ícones para usar como marcadores de posição para seus POIs (Pontos de Interesse) em seus mapas.
 
-[Free Geographic Tools](https://freegeographytools.com/downloads) - Exploración del mundo de las herramientas gratuitas para SIG, GPS, Google Earth, neogeografía y mucho más.
+[Free Geographic Tools](https://freegeographytools.com/downloads) - Exploração do mundo das ferramentas gratuitas para SIG, GPS, Google Earth, neogeografia e muito mais.
 
-[Geographic Magnetic Calculator](https://geosaber.blogspot.com/2010/01/geographic-magnetic-calculator.html) - Herramienta para determinar las Coordenadas UTM y la Declinación Magnética correspondientes a una localización geográfica (latitud/longitud).
+[Geographic Magnetic Calculator](https://geosaber.blogspot.com/2010/01/geographic-magnetic-calculator.html) - Ferramenta para determinar as Coordenadas UTM e a Declinação Magnética correspondentes a uma localização geográfica (latitude/longitude).
 
 [Free GIS Data](https://freegisdata.rtwilson.com/) por Robin Wilson
 
-[Overture Maps Data](https://overturemaps.org/download/#) Capas de sitios de interés, edificaciones, transporte y límites administrativos.
+[Overture Maps Data](https://overturemaps.org/download/#) Camadas de locais de interesse, edificações, transporte e limites administrativos.
 
-Libros
+Livros
 ======
 
-Introducción a Python para Geociencias [PDF](https://repositorio.unal.edu.co/handle/unal/85961)
+Introdução ao Python para Geociências [PDF](https://repositorio.unal.edu.co/handle/unal/85961)
 
-Manual de gestión de los Sistemas de Información Geográfica (3ª edición) [PDF](https://croswell-schulte.com/the-gis-management-handbook-3rd-edition/)
+Manual de gestão de Sistemas de Informação Geográfica (3ª edição) [PDF](https://croswell-schulte.com/the-gis-management-handbook-3rd-edition/)
 
 An Introduction to Earth and Environmental Data Science [HTML](https://earth-env-data-science.github.io/intro.html)
 
@@ -141,56 +141,56 @@ Data Engineering Design Patterns (DEDP) [HTML](https://www.dedp.online/)
 Info
 ====
 
-[EOSDA Analytics](https://eos.com/es/) Soluciones espaciales para los problemas de la Tierra
+[EOSDA Analytics](https://eos.com/es/) Soluções espaciais para os problemas da Terra
 
-[EPSG](https://epsg.io/) Sistemas de coordenadas mundial, de MapTiler
+[EPSG](https://epsg.io/) Sistemas de coordenadas mundiais, por MapTiler
 
 
-Geología
+Geologia
 ========
 
-[Comisión Internacional de Estratigrafía](https://stratigraphy.org/) es el cuerpo constituyente científico más grande y antiguo en la Unión de Ciencias Geológicas Internacional (IUGS, International Union of Geological Sciences)
+[Comissão Internacional de Estratigrafia](https://stratigraphy.org/) é o maior e mais antigo corpo científico constituinte da União Internacional de Ciências Geológicas (IUGS, International Union of Geological Sciences)
 
-[Servicios Geológicos en el mundo](http://tierra.rediris.es/geolsurveys.html)
+[Serviços Geológicos no mundo](http://tierra.rediris.es/geolsurveys.html)
 
-[geovirtual](http://www.geovirtual2.cl/Entrada/ApuntesIntro01.htm) Apuntes de geología
+[geovirtual](http://www.geovirtual2.cl/Entrada/ApuntesIntro01.htm) Apontamentos de geologia
 
-[Schlumberger](https://glossary.slb.com/es/) Glosario energético
+[Schlumberger](https://glossary.slb.com/es/) Glossário energético
 
 [Mapping the Geology of South America](https://ccgm.org/en/2023/02/26/mapping-the-geology-of-south-america)
 
-[Macrostrat](https://macrostrat.org/), una plataforma para la exploración, integración y análisis de datos geológicos
+[Macrostrat](https://macrostrat.org/), uma plataforma para exploração, integração e análise de dados geológicos
 
 
-Blogs/Noticias
+Blogs/Notícias
 ==============
 
 [Rodolfo Franco Web](https://rodolfofrancoweb.com/)
 
-### Artículos
-[Áreas Conservadas de Venezuela](https://storymaps.arcgis.com/stories/5f25ab43f9c34c00bf99b63b760c2bfb)
+### Artigos
+[Áreas Conservadas da Venezuela](https://storymaps.arcgis.com/stories/5f25ab43f9c34c00bf99b63b760c2bfb)
 
 [Archean cratonic mantle recycled at a mid-ocean ridge](https://www.science.org/doi/10.1126/sciadv.abn6749)
 
-### Boletines de Substack
-[Remote sensing news](https://rafaelatiengo.substack.com/), estarás al día de las noticias más recientes, consejos, tutoriales, conferencias y mucho más sobre Teledetección y Geociencia.
+### Boletins do Substack
+[Remote sensing news](https://rafaelatiengo.substack.com/), ficará em dia com as notícias mais recentes, dicas, tutoriais, conferências e muito mais sobre Sensoriamento Remoto e Geociência.
 
-[Open-Source Solutions for Geospatial Analysis](https://bonnypmcclain.substack.com/), recibirás ideas sobre análisis geoespacial, consejos para analizar tus datos con herramientas de código abierto como un profesional de la ciencia de datos, por Bonny P. McClain.
+[Open-Source Solutions for Geospatial Analysis](https://bonnypmcclain.substack.com/), receberá ideias sobre análise geoespacial, dicas para analisar seus dados com ferramentas de código aberto como um profissional de ciência de dados, por Bonny P. McClain.
 
-[TerraWatch Space Insights](https://newsletter.terrawatchspace.com/) es el recurso de referencia para el análisis, la comprensión y la profundización en la observación de la Tierra, los datos satelitales y sus aplicaciones.
+[TerraWatch Space Insights](https://newsletter.terrawatchspace.com/) é o recurso de referência para análise, compreensão e aprofundamento na observação da Terra, dados de satélite e suas aplicações.
 
-[The satellite-image-deep-learning organisation](https://www.satellite-image-deep-learning.com/) es una organización para ayudar tanto a principiantes como a expertos a aplicar el aprendizaje profundo a las imágenes aéreas y por satélite
+[The satellite-image-deep-learning organisation](https://www.satellite-image-deep-learning.com/) é uma organização para ajudar tanto iniciantes quanto especialistas a aplicar o aprendizado profundo a imagens aéreas e de satélite
 
 [Strategic Geospatial](https://www.strategicgeospatial.com/) por Will Cadell.
 
-[Geospatial Jobs](https://geospatial.substack.com/), boletín profesional centrado en listados de empleos en la ciencia de datos y las geociencias, por Ali Ahmadalipour.
+[Geospatial Jobs](https://geospatial.substack.com/), boletim profissional focado em listas de empregos em ciência de dados e geociências, por Ali Ahmadalipour.
 
-Guías
+Guias
 =====
 
-[Spatial Thoughts: Plataforma de aprendizaje para tecnologías geoespaciales modernas](https://spatialthoughts.com/)
+[Spatial Thoughts: Plataforma de aprendizado para tecnologias geoespaciais modernas](https://spatialthoughts.com/)
 
-[Cómo descargar datos climáticos con Google Earth Engine](https://geoinnova.org/)
+[Como baixar dados climáticos com Google Earth Engine](https://geoinnova.org/)
 
 [How to generate a Leaflet.js webmap on QGIS with plugin](https://www.luisalucchese.com/post/how-to-leaflet-qgis2web-adjust-generated-map)
 
@@ -200,7 +200,7 @@ Guías
 
 
 
-Si aprecias mi trabajo, puedes enviar satoshis vía LN :zap:
+Se você aprecia meu trabalho, pode enviar satoshis via LN :zap:
 
  ![image](https://github.com/mageogis/awesome-gishub/assets/40426390/6678c205-db94-4523-a7ef-8f770b34137e)
 
